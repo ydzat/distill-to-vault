@@ -1,10 +1,10 @@
 # distill-to-vault
 
-Distill lecture scripts, textbooks, papers, and MOOCs into a deduplicated Obsidian/Markdown knowledge vault. For academic sources — not AI conversations.
+Distill lecture scripts, textbooks, papers, and MOOCs into a deduplicated Obsidian/Markdown knowledge vault.
 
-## What makes this different
+## What this is
 
-Most knowledge-distillation skills focus on capturing AI conversations. This skill is built for **structured academic sources** — courses, textbooks, research papers, MOOCs — with a rigorous pipeline that treats deduplication as a first-class concern.
+An agent skill for turning **structured academic sources** — courses, textbooks, research papers, MOOCs — into a durable, trustworthy knowledge vault. Built around a rigorous pipeline that treats deduplication as a first-class concern.
 
 **Prime directive:** Each concept is stored **once**, at its deepest treatment. A skipped source that adds nothing new is a successful outcome, not a failure.
 
