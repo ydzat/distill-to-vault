@@ -7,9 +7,7 @@ description: >
   compile study notes, extract knowledge from a textbook or paper, build
   a personal knowledge vault from academic sources, or add new material
   to an existing vault without creating duplicates. Covers curriculum
-  courses, research papers, online courses, and book distillation. Not
-  for distilling AI conversations or chat history — use a conversation
-  distillation skill for that.
+  courses, research papers, online courses, and book distillation.
 license: MIT
 ---
 
